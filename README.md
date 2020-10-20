@@ -5,6 +5,6 @@
 
 Hi, I'm a software developer and hobbyist mathematician.
 
-- 🔭 As a fulltime employee, I’m coding in TypeScript (back and front) and creating CI/CD pipelines.
-- 🌱 As a student, I’m currently implementing a [linear temporal type system](https://github.com/aerabi/lttt) for event-based reactive programming, in Coq.
-- 👯 As an open-source contributor, I’m looking developing [Mongo-CI](https://www.npmjs.com/package/mongo-ci) npm package, as well as [RxJS Pipe Extentions](https://www.npmjs.com/package/rxjs-pipe-ext).
+- 🧑‍💼 As a fulltime employee, I’m coding in TypeScript (back and front) and creating CI/CD pipelines.
+- 🧑‍🎓 As a student, I’m currently implementing a [linear temporal type system](https://github.com/aerabi/lttt) for event-based reactive programming, in Coq.
+- 🧑‍💻 As an open-source contributor, I’m mostly contributing to [RxJS Pipe Extentions](https://www.npmjs.com/package/rxjs-pipe-ext) npm package, as well as [Mongo-CI](https://www.npmjs.com/package/mongo-ci).

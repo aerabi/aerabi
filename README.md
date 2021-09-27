@@ -8,5 +8,5 @@
 Hi, I'm a software developer and hobbyist mathematician.
 
 - 🧑‍💼 As a fulltime employee, I code in TypeScript (back and front) and create CI/CD pipelines.
-- 🧑‍🎓 As a student, I’m currently implementing a [linear temporal type system](https://github.com/aerabi/lttt) for event-based reactive programming, in Coq.
-- 🧑‍💻 As an open-source contributor, I’m mostly contributing to [RxJS Pipe Extentions](https://www.npmjs.com/package/rxjs-pipe-ext) npm package, as well as [Mongo-CI](https://www.npmjs.com/package/mongo-ci).
+- 🧑‍💻 As an open-source contributor, I’m mostly contributing to [RxJSx](https://www.npmjs.com/rxjsx) as well as [Mongo-CI](https://www.npmjs.com/package/mongo-ci).
+- 🧑‍🎓 As a life-time learner, I'm currently researching in [linear-time temporal logic](https://github.com/aerabi/heartbeat-poster).

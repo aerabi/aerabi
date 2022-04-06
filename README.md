@@ -1,5 +1,17 @@
-![](https://github.com/aerabi/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/aerabi/github-stats/blob/master/generated/languages.svg)
+<p align="center">
+  <a href="https://github.com/aerabi">
+    <img 
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=HTML,CSS&langs_count=10" 
+    >
+  </a>
+  <a href="https://github.com/aerabi">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=aerabi&count_private=true&show_icons=true&title_color=663399"
+    >
+  </a>
+</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliPER?style=social)](https://twitter.com/MohammadAliPER)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliEN?style=social)](https://twitter.com/MohammadAliEN)

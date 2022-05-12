@@ -3,7 +3,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliPER?style=social)](https://twitter.com/MohammadAliPER)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliEN?style=social)](https://twitter.com/MohammadAliEN)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliDACH?style=social)](https://twitter.com/MohammadAliDACH)
 
 Hi, I'm a software developer and hobbyist mathematician.
 

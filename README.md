@@ -1,7 +1,6 @@
 ![](https://github.com/aerabi/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/aerabi/github-stats/blob/master/generated/languages.svg)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliPER?style=social)](https://twitter.com/MohammadAliPER)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliEN?style=social)](https://twitter.com/MohammadAliEN)
 
 Hi, I'm a software developer and mathematician (e.g. I know why $e^{i\pi} + 1 = 0$).

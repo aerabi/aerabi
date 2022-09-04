@@ -18,4 +18,7 @@ Hi, I'm a software engineer and content creator.
 ## Latest Git Weekly Posts
 _Full list available at [aerabi.com](https://aerabi.com/)_
 
-- [#18. Seven Git Configs: To Set When Moving to a New Machine](https://itnext.io/seven-git-configs-9de48007aa77)
+- #18. [Seven Git Configs: To Set When Moving to a New Machine](https://itnext.io/seven-git-configs-9de48007aa77)
+- #17. [Git Merge Tools: How to resolve conflicts using Git?](https://itnext.io/git-merge-tools-be2efd7ec9db)
+- #16. [Git Binary Search: How to find a bad commit?](https://itnext.io/git-binary-search-de86e9aa334a)
+

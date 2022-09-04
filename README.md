@@ -16,6 +16,6 @@ Hi, I'm a software engineer and content creator.
 - [How to Build and Deploy a URL Shortener Using TypeScript and Nest.js](https://www.docker.com/blog/how-to-build-and-deploy-a-url-shortener-using-typescript-and-nest-js/)
 
 ## Latest Git Weekly Posts
-_Full list available at [aerabi.com](https://aerabi.com/)
+_Full list available at [aerabi.com](https://aerabi.com/)_
 
 - [#18. Seven Git Configs: To Set When Moving to a New Machine](https://itnext.io/seven-git-configs-9de48007aa77)

@@ -1,5 +1,5 @@
-![](https://github.com/aerabi/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/aerabi/github-stats/blob/master/generated/languages.svg)
+![GitHub overview](https://github.com/aerabi/github-stats/blob/master/generated/overview.svg)
+![GitHub languages](https://github.com/aerabi/github-stats/blob/master/generated/languages.svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MohammadAliEN?style=social)](https://twitter.com/MohammadAliEN)
 

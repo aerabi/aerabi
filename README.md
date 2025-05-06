@@ -11,12 +11,12 @@
 [![Medium blog](https://img.shields.io/badge/Follow_Medium_blog_@aerabi-545-blue.svg?style=social&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0yLjg0NiA2Ljg4N2MuMDMtLjI5NS0uMDgzLS41ODYtLjMwMy0uNzg0bC0yLjI0LTIuN3YtLjQwM2g2Ljk1OGw1LjM3OCAxMS43OTUgNC43MjgtMTEuNzk1aDYuNjMzdi40MDNsLTEuOTE2IDEuODM3Yy0uMTY1LjEyNi0uMjQ3LjMzMy0uMjEzLjUzOHYxMy40OThjLS4wMzQuMjA0LjA0OC40MTEuMjEzLjUzN2wxLjg3MSAxLjgzN3YuNDAzaC05LjQxMnYtLjQwM2wxLjkzOS0xLjg4MmMuMTktLjE5LjE5LS4yNDYuMTktLjUzN3YtMTAuOTFsLTUuMzg5IDEzLjY4OGgtLjcyOGwtNi4yNzUtMTMuNjg4djkuMTc0Yy0uMDUyLjM4NS4wNzYuNzc0LjM0NyAxLjA1MmwyLjUyMSAzLjA1OHYuNDA0aC03LjE0OHYtLjQwNGwyLjUyMS0zLjA1OGMuMjctLjI3OS4zOS0uNjcuMzI1LTEuMDUydi0xMC42MDh6Ii8+PC9zdmc+)](https://aerabi.medium.com)
 [![GitHub stars](https://img.shields.io/github/stars/aerabi?label=Star%20GitHub%20repos%20%40aerabi)](https://github.com/aerabi)
 
-Mohammad-Ali A'râbi is a Senior Software Engineer at Haufe Akademie, Docker Captain, Snyk Ambassador, Docker Community Leader, public speaker, and author. He has been writing code for 20 years now and has worked and lived in various countries and companies.
+Mohammad-Ali A'râbi is a Senior Software Engineer at JobRad, Docker Captain, Snyk Ambassador, Docker Community Leader, CNCF Freiburg Chapter Organizer, public speaker, and author. He has been writing code for 20 years now and has worked and lived in various countries and companies.
 
 - :pencil: As a content creator, he blogs on git and Docker: [aerabi.medium.com](https://aerabi.medium.com).
 - :book: As an author, he's currently writing a book on Container Security for Packt.
 - :whale: As a Docker Captain and Community Leader, he organizes [meetups](https://www.meetup.com/Docker-Black-Forest) and [talks in events](https://youtube.com/playlist?list=PLJBy6TeyWq6MtATfTwx-D5xmSLLBcbLi9).
-- :computer: As a fulltime employee, he develops Next.js applications at Haufe Akademie.
+- :computer: As a fulltime employee, he develops Python backend applications at JobRad GmbH.
 - :technologist: As an open-source contributor, he maintains [RxJSx](https://www.npmjs.com/rxjsx) as well as [Mongo-CI](https://www.npmjs.com/package/mongo-ci), among others.
 
 ## Medium blog's highlights

@@ -4,6 +4,8 @@
 
 Senior Software Engineer with 20 years of experience specializing in **Container Security**, **DevSecOps**, and **Cloud-Native Architecture**. I believe in "Education through Storytelling"—making complex security concepts accessible through narrative and practical implementations.
 
+![About Me](about-me.png)
+
 ---
 
 ### 🛡️ Core Expertise
